@@ -7,7 +7,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="overview-wrap">
-                                    <h2 class="title-1">Tasks Detail</h2>
+                                    <h2 class="title-1">Pengajuan Galang Dana</h2>
                                     
                                 </div>
                             </div>
@@ -18,12 +18,12 @@
                                 <div class="table-responsive m-b-40">
                                     <table class="table table-borderless table-data3">
                                         <thead>
-                                            <tr class="table-danger">
-                                                <th>No</th>
-                                                <th>Nama</th>
-                                                <th>Email</th>
-                                                <th>Pesan</th>
-                                                <th>Aksi</th>
+                                            <tr class="table-primary">
+                                                <th style="color: #139597">No</th>
+                                                <th style="color: #139597">Nama</th>
+                                                <th style="color: #139597">Email</th>
+                                                <th style="color: #139597">Pesan</th>
+                                                <th style="color: #139597">Aksi</th>
                                             </tr>
                                         </thead>
                                         <tbody>

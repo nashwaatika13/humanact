@@ -8,72 +8,114 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
+        <title>Blog Home - Start Bootstrap Template</title>
+        <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="CoolAdmin/css/styles.css" rel="stylesheet" />
+        <link href="css/styles.css" rel="stylesheet" />
     </head>
-    <body id="page-top">
-        <!-- Content section 1-->
-        <section id="scroll">
-            <div class="container px-5">
-                <div class="row gx-5 align-items-center">
-                    <div class="col-lg-6 order-lg-2">
-                        <div class="p-5"><img class="img-fluid rounded-circle" src="admin/images/icon/english.jpeg" style="max-width: 80%; height: auto;" alt="..." /></div>
+    <body>
+        <!-- Page content-->
+        <div class="container">
+            <div class="row">
+                <!-- Blog entries-->
+                <div class="col-lg-8">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="https://lh3.googleusercontent.com/p/AF1QipORx0Dk1YQ9laan8FLlc7bNZopFsa2QwWR-1hr4=s1360-w1360-h1020" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">Panti Asuhan Anak Yatim Piatu & Terlantar Masjid Gelora Indah</div>
+                            <h2 class="card-title">Sumbangan untuk Panti Asuhan Anak Yatim Piatu & Terlantar Masjid Gelora Indah</h2>
+                            <p class="card-text">“Bulan Ramadhan adalah bulan sabar, pahala sabar adalah surga. Bulan Ramadhan adalah bulan solidaritas (tolong-menolong), dan bulan dimana rezeki orang mukmin bertambah. Barang siapa memberi buka puasa, maka baginya maghfirah (ampunan) bagi dosa-dosanya dan bebas dirinya dari api neraka. Ia mendapat pahala seperti pahala orang yang berpuasa itu tanpa mengurangi sedikitpun pahala orang yang berpuasa.”</p>
+                            <a class="btn btn-primary" href="/donasi">Donasi →</a>
+                        </div>
                     </div>
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="p-5">
-                            <h2 class="display-4" style="color: deeppink">English Homework Assistance</h2>
-                            <p>Our team of experienced English tutors is ready to assist you with a wide range of tasks, including essay writing, literary analysis, grammar refinement, and more. Whether you're a high school student crafting an essay or a college student polishing your research paper, our experts can provide guidance and constructive feedback to elevate your writing to the next level.</p>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="https://www.yabangkit.or.id/wp-content/uploads/2019/03/IMG-20190323-WA0002-1024x768.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">Source: KitaBisa.com</div>
+                                    <h2 class="card-title h4">Sedekah Jariyah Bagikan Al-Quran</h2>
+                                    <p class="card-text">Assalamualaikum #OrangBaik, Alhamdulillah kita sedang dalam bulan penuh berkah, bulan seribu bulan, bulan Ramadhan. Bulan ini tentunya sudah selayaknya dipenuhi dengan riang gembira umat muslim yang menyambutnya dengan berbagai amal-amal kebaikan.</p>
+                                    <a class="btn btn-primary" href="/tutup">Donasi →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="https://img.kitabisa.cc/size/1000/ca7796db-77af-4bef-a71f-565d30026d0a.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">Source: KitaBisa.com</div>
+                                    <h2 class="card-title h4">5 Tahun Tanpa Masjid, 164 Warga Ibadah di Lapangan</h2>
+                                    <p class="card-text">Mereka adalah 164 korban bencana alam pergeseran tanah dan longsor tahun 2018. Mereka harus meninggalkan kampung yang sudah tidak layak huni dan pindah ke lahan yang lebih aman. Namun, 5 tahun mereka ibadah tanpa masjid.</p>
+                                    <a class="btn btn-primary" href="/tutup">Donasi →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="https://lh7-us.googleusercontent.com/biHe_tvG4EDVHZ0uJ6I_90rtZfxpvPhJuH_p1hmXZZoMwKiCMl9G0eCbrabZgty-TT5gWlRSmeJZAsy_JAkP9_ThXFGZXoimM2ioyjZl4dG2ckCnva6XxFxdoH21_yGsPhfVvP-huCWICDUwtmkmF24" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">Source: KitaBisa.com</div>
+                                    <h2 class="card-title h4">PDARURAT ! Dampak Gempa 6.5 magnitudo ratakan tuban</h2>
+                                    <p class="card-text">Evakuasi terus dilakukan, tercatat telah terjadi gempa susulan sebanyak 238 kali di 132km Timur Laut Tuban. (Laporan BPBD Jawa Timur pada 24 Maret 2024)</p>
+                                    <a class="btn btn-primary" href="/tutup">Donasi →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="https://img.kitabisa.cc/size/512/68a67286-0473-44d9-89fa-762cd7baa36a.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">Source: KitaBisa.com</div>
+                                    <h2 class="card-title h4">Bantuan Pakan untuk Hewan Liar dan Terlantar</h2>
+                                    <p class="card-text">Lewat program TemanHewan, kami mau mengajak teman-teman untuk menolong hewan-hewan liar dan terlantar di luar sana mulai dari kucing, anjing, dan hewan-hewan lainnya yang membutuhkan dengan bantuan pakan gratis.</p>
+                                    <a class="btn btn-primary" href="/tutup">Donasi →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Side widgets-->
+                <div class="col-lg-4">
+                    <!-- Side widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Logo HumanAct</div>
+                        <div class="card-body">
+                            <img src="{{ asset('admin/images/icon/humanact.jpeg')}}" style="width: 300px" alt="...">
+                        </div>
+                    </div>
+                    <div class="card mb-4">
+                        <div class="card-header">Pengertian HumanAct</div>
+                        <div class="card-body">Humanact adalah sebuah platform daring yang memungkinkan individu untuk berpartisipasi dalam aksi kemanusiaan dengan memberikan donasi secara mudah dan transparan.</div>
+                    </div>
+                    <!-- Categories widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Bentuk Pengajuan Donasi</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li>Kebakaran</li>
+                                        <li>Banjir</li>
+                                        <li>Tanah Longsor</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li>Panti Asuhan</li>
+                                        <li>Erupsi Gunung Berapi</li>
+                                        <li>Penyakit</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- Content section 2-->
-        <section>
-            <div class="container px-5">
-                <div class="row gx-5 align-items-center">
-                    <div class="col-lg-6">
-                        <div class="p-5"><img class="img-fluid rounded-circle" src="admin/images/icon/code.jpeg" style="max-width: 80%; height: auto;" alt="..." /></div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="p-5">
-                            <h2 class="display-4" style="color: deeppink">Mathematics Homework Assistance</h2>
-                            <p>From algebraic equations to calculus conundrums, our mathematics tutors are equipped to tackle any mathematical challenge you throw their way. We break down complex problems into simple, digestible steps, ensuring you not only understand the solution but also grasp the underlying concepts. Whether it's homework, exam preparation, or concept clarification, we've got your mathematical needs covered.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Content section 3-->
-        <section>
-            <div class="container px-5">
-                <div class="row gx-5 align-items-center">
-                    <div class="col-lg-6 order-lg-2">
-                        <div class="p-5"><img class="img-fluid rounded-circle" src="admin/images/icon/math.jpeg" style="max-width: 80%; height: auto;" alt="..." /></div>
-                    </div>
-                    <div class="col-lg-6 order-lg-1">
-                        <div class="p-5">
-                            <h2 class="display-4" style="color: deeppink">Coding Homework Assistance</h2>
-                            <p>Embarking on a coding journey can be overwhelming, but our team of skilled programmers is here to guide you through the intricacies of coding assignments. Whether you're working on Python, Java, HTML, or any other programming language, we provide assistance in debugging, code optimization, and overall understanding of coding principles. Our goal is to empower you to write clean, efficient code and build a strong foundation for your programming skills.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Footer-->
-        <footer class="py-5 bg-black">
-            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Your Website 2023</p></div>
-        </footer>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+        </div>
     </body>
 </html>
 @endsection

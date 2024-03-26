@@ -24,7 +24,7 @@
                     <div class="login-content">
                         <div class="login-logo">
                             <a href="#">
-                                <img src="{{ asset('admin/images/icon/freedom.jpeg')}}" style="width: 315px" alt="CoolAdmin">
+                                <img src="{{ asset('admin/images/icon/humanact.jpeg')}}" style="width: 315px" alt="CoolAdmin">
                             </a>
                         </div>
                         <div class="login-form">
@@ -51,7 +51,7 @@
                                         <input type="checkbox" name="aggree">Agree the terms and policy
                                     </label>
                                 </div>
-                                <button class="au-btn au-btn--block m-b-20" style="background-color:deeppink" type="submit">register</button>
+                                <button class="au-btn au-btn--block m-b-20" style="background-color:#139597" type="submit">register</button>
                             </form>
                             <div class="register-link">
                                 <p>

@@ -24,7 +24,7 @@
                     <div class="login-content">
                         <div class="login-logo">
                             <a href="#">
-                                <img src="{{ asset('admin/images/icon/freedom.jpeg')}}" style="width: 300px" alt="CoolAdmin">
+                                <img src="{{ asset('admin/images/icon/humanact.jpeg')}}" style="width: 300px" alt="CoolAdmin">
                             </a>
                         </div>
                         <div class="login-form">
@@ -56,7 +56,7 @@
                                         <a href="#">Forgotten Password?</a>
                                     </label>
                                 </div>
-                                <button class="au-btn au-btn--block au-btn--" style="background-color:deeppink" type="submit">sign in</button>
+                                <button class="au-btn au-btn--block au-btn--" style="background-color:#139597" type="submit">sign in</button>
                             </form>
                             <div class="register-link">
                                 <p>
